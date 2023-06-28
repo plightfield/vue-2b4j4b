@@ -59,10 +59,10 @@
         <!-- 图 -->
         <ul class="pic">
           <li>
-            <a href="#"><img src="./assets/images/banner1.png" alt="" /></a>
+            <a href="#"><img src="/assets/images/banner1.png" alt="" /></a>
           </li>
           <li>
-            <a href="#"><img src="./assets/images/banner1.png" alt="" /></a>
+            <a href="#"><img src="/assets/images/banner1.png" alt="" /></a>
           </li>
         </ul>
         <!-- 侧导航 -->
@@ -176,7 +176,7 @@
           <li>
             <a href="#">
               <div class="pic">
-                <img src="./assets/images/goods1.png" alt="" />
+                <img src="/assets/images/goods1.png" alt="" />
               </div>
               <div class="txt">
                 <h4>KN95级莫兰迪色防护口罩</h4>
@@ -187,7 +187,7 @@
           <li>
             <a href="#">
               <div class="pic">
-                <img src="./assets/images/goods2.png" alt="" />
+                <img src="/assets/images/goods2.png" alt="" />
               </div>
               <div class="txt">
                 <h4>KN95级莫兰迪色防护口罩</h4>
@@ -198,7 +198,7 @@
           <li>
             <a href="#">
               <div class="pic">
-                <img src="./assets/images/goods3.png" alt="" />
+                <img src="/assets/images/goods3.png" alt="" />
               </div>
               <div class="txt">
                 <h4>法拉蒙高颜值记事本可定制</h4>
@@ -209,7 +209,7 @@
           <li>
             <a href="#">
               <div class="pic">
-                <img src="./assets/images/goods4.png" alt="" />
+                <img src="/assets/images/goods4.png" alt="" />
               </div>
               <div class="txt">
                 <h4>科技布布艺沙发</h4>
@@ -238,27 +238,27 @@
           <ul>
             <li>
               <a href="#">
-                <img src="./assets/images/hot1.png" alt="" />
+                <img src="/assets/images/hot1.png" alt="" />
               </a>
             </li>
             <li>
               <a href="#">
-                <img src="./assets/images/hot2.png" alt="" />
+                <img src="/assets/images/hot2.png" alt="" />
               </a>
             </li>
             <li>
               <a href="#">
-                <img src="./assets/images/hot3.png" alt="" />
+                <img src="/assets/images/hot3.png" alt="" />
               </a>
             </li>
             <li>
               <a href="#">
-                <img src="./assets/images/hot4.png" alt="" />
+                <img src="/assets/images/hot4.png" alt="" />
               </a>
             </li>
             <li>
               <a href="#">
-                <img src="./assets/images/hot5.png" alt="" />
+                <img src="/assets/images/hot5.png" alt="" />
               </a>
             </li>
           </ul>
@@ -283,7 +283,7 @@
           <li>
             <a href="#">
               <div class="pic">
-                <img src="./assets/images/topic1.png" alt="" />
+                <img src="/assets/images/topic1.png" alt="" />
                 <div class="info">
                   <div class="left">
                     <h5>吃这些美食才不算辜负自己</h5>
@@ -313,7 +313,7 @@
           <li>
             <a href="#">
               <div class="pic">
-                <img src="./assets/images/topic2.png" alt="" />
+                <img src="/assets/images/topic2.png" alt="" />
                 <div class="info">
                   <div class="left">
                     <h5>吃这些美食才不算辜负自己</h5>
@@ -343,7 +343,7 @@
           <li>
             <a href="#">
               <div class="pic">
-                <img src="./assets/images/topic3.png" alt="" />
+                <img src="/assets/images/topic3.png" alt="" />
                 <div class="info">
                   <div class="left">
                     <h5>吃这些美食才不算辜负自己</h5>
@@ -437,11 +437,11 @@
           <div class="right">
             <ul>
               <li>
-                <div><img src="./assets/images/wechat.png" alt="" /></div>
+                <div><img src="/assets/images/wechat.png" alt="" /></div>
                 <p>微信公众号</p>
               </li>
               <li>
-                <div><img src="./assets/images/app.png" alt="" /></div>
+                <div><img src="/assets/images/app.png" alt="" /></div>
                 <p>APP下载二维码</p>
               </li>
             </ul>
